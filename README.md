@@ -1,7 +1,7 @@
 # Python-Stock-Program
 A visual Python program utilising Yahoo Finance's API, machine learning, tkinter, and MatPlotLib to search for and display a graph of given stock price over a year.
 The final outcome of this project should be:
-- A beautiful looking GUI able to search for US stocks across multiple periods
+- A beautiful looking GUI able to search for anjd display US stocks across multiple periods (in the form of candlestick charts)
 - Machine learning component capable of summizing stock name from yahoo finance's ticker summaries
 - Optional feature overlaying P/E of S&P, or of individual industries, over a stock price.
 
